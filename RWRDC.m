@@ -1,6 +1,7 @@
+%MATLAB code
 %input:adjacency matrix A
-%output:efficacious score S
-function S=ERWR(A)
+%output:efficacy score S
+function S=RWRDC(A)
 c=0.05;%restart probability
 [cc,cc]=size(A);
 w=inv(diag(sum(A,2)))*A;
