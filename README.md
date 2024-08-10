@@ -1,5 +1,4 @@
-# RWRDC
-Predicting Effective Drug Combinations for Cancer Treatment Using a Graph-Based Approach
+# Predicting Effective Drug Combinations for Cancer Treatment Using a Graph-Based Approach
 
 ## Abstract
 
